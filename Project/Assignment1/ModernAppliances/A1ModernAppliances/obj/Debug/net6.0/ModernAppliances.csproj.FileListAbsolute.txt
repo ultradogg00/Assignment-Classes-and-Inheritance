@@ -1,0 +1,31 @@
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/appliances.txt
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.deps.json
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.runtimeconfig.json
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.dll
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/bin/Debug/net6.0/ModernAppliances.pdb
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.csproj.AssemblyReference.cache
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.AssemblyInfoInputs.cache
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.AssemblyInfo.cs
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.csproj.CoreCompileInputs.cache
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.dll
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/refint/ModernAppliances.dll
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.pdb
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ModernAppliances.genruntimeconfig.cache
+/Users/chelseayang/Desktop/CPRG 211/Assignment1/ModernAppliances/A1ModernAppliances/obj/Debug/net6.0/ref/ModernAppliances.dll
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.exe
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\appliances.txt
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.deps.json
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.runtimeconfig.json
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.dll
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\bin\Debug\net6.0\ModernAppliances.pdb
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfoInputs.cache
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.AssemblyInfo.cs
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.csproj.CoreCompileInputs.cache
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.dll
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\refint\ModernAppliances.dll
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.pdb
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ModernAppliances.genruntimeconfig.cache
+C:\Users\dashi\Documents\oop2-211\chelsa\Assignment1\ModernAppliances\A1ModernAppliances\obj\Debug\net6.0\ref\ModernAppliances.dll
